@@ -69,10 +69,6 @@ npm run start
 
 ✅ HTML 5 <br>
 ✅ CSS 3<br>
-- Pré-processador SASS/SCSS
-- ITCSS significa triângulo invertido CSS, e ajuda você a fazer o projeto CSS escalável e sustentável.
-- Metodologia RSCSS.<br>
-
 ✅ JavaScipt
 - Webpack
 
@@ -81,7 +77,7 @@ npm run start
 Released in 2020. This project is under the [MIT license](https://nodejs.org/en/download/) 
 <br>
 <br>
-🚀 Desenvolvido por Jucelania 
+🚀 Mentoria Mayke Brito!! 
 
-(PARTE 1 ) Continua...
+(PARTE 1 ) Continua... 🚀🚀
  
