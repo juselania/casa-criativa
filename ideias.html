@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <link rel="short icon" href="./img/house.png" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Oswald&family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>Ideias - Casa Criativa</title>
+</head>
+
+<body id="page-ideas">
+   
+    <div id="container">
+        <header>
+            <img src="./img/27pdZLL - Imgur (1).png" alt="logo- casa Criativa">
+            <!--Menu-->
+            <nav>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="#" onclick="onOff()">Nova Ideia</a></li>
+            </nav>
+    
+        </header>
+    
+        <section id="title">
+            <p>em exibição</p>
+            <h1>Ideias</h1>
+        </section>
+    
+        <main>
+            <section id="ideas">          
+                <div class="idea">
+                    <img src="./img/programing.png" alt="estudo" width="10%" height="10%">
+                    <div class="content">
+                        <h3>Cursos de Programação</h3>
+                        <p>Estudo</p>
+                        
+                        <div class="description">
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                            Tempora, consequuntur neque minima consectetur officia distinctio.
+                            Excepturi neque placeat cumque atque vel. Odio exercitationem praesentium 
+                            quaerat explicabo ipsum consequatur animi rem. 
+                        </div>
+                        <a href="#">Ir para a ideia</a>
+                    </div>
+                </div>
+                                
+                <div class="idea">
+                    <img src="./img/athlete.png" alt="gym" width="10%" height="10%">
+                    <div class="content">
+                        <h3>Exercícios</h3>
+                        <p>Saúde</p>
+                        
+                        <div class="description">
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                            Tempora, consequuntur neque minima consectetur officia distinctio.
+                            Excepturi neque placeat cumque atque vel. Odio exercitationem praesentium 
+                            quaerat explicabo ipsum consequatur animi rem. 
+                        </div>
+                        <a href="#">Ir para a ideia</a>
+                    </div>
+                </div>
+                
+                <div class="idea">
+                    <img src="./img/headphone.png" alt="music" width="30%" height="30%">
+                    <div class="content">
+                        <h3>Músicas</h3>
+                        <p>Diversão</p>
+                        
+                        <div class="description">
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                            Tempora, consequuntur neque minima consectetur officia distinctio.
+                            Excepturi neque placeat cumque atque vel. Odio exercitationem praesentium 
+                            quaerat explicabo ipsum consequatur animi rem. 
+                        </div>
+                        <a href="#">Ir para a ideia</a>
+                    </div>
+                </div>
+    
+
+                <div class="idea">
+                    <img src="./img/yoga.png" alt="yoga" width="10%" height="10%">
+                    
+                    <div class="content">
+                        <h3>Meditação</h3>
+                        <p>Mentalidade</p>
+                        
+                        <div class="description">
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                            Tempora, consequuntur neque minima consectetur officia distinctio.
+                            Excepturi neque placeat cumque atque vel. Odio exercitationem praesentium 
+                            quaerat explicabo ipsum consequatur animi rem. 
+                        </div>
+                        <a href="#">Ir para a ideia</a>
+                    </div>
+                </div>
+    
+                    </section>
+        </div>
+            
+        </main>
+        <footer>Com  🧡 <a href="https://www.instagram.com/jullydeveloper/" target="blanck">Jully Developer</a></footer>
+    </div>
+
+     <!--Modal-->
+     <div id="modal" class="hide">
+        <div class="content">
+            <h1>Nova Ideia</h1>
+
+            <form action="">
+                
+            <div class="input-wraper">
+                <label for="title">Título da Ideia</label>
+                <input type="text" name="title">
+            </div>
+
+            <div class="input-wraper">
+                <label for="category">Categoria</label>
+                <input type="text" name="category">
+            </div>
+            <div class="input-wraper">
+                <label for="image">Link da imagem</label>
+                <input type="url" name="image">
+            </div>    
+            <div class="input-wraper">
+                <label for="description">Digite uma descrição para essa ideia</label>
+                <textarea name="description" cols="30" rows="10"></textarea>
+            </div>   
+            <div class="input-wraper">
+                <label for="link">Link da Ideia</label>
+                <input type="text" name="link">
+            </div>
+           
+            <a href="#" onclick="onOff()">Voltar</a>
+            <button id="form-button">Salvar</button>
+            </form>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
