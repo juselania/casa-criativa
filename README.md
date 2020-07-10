@@ -1,13 +1,13 @@
 <p align="center">
-   <a target="_blank" rel="casa criativa" href="https://github.com/Rocketseat"><img src="./img/home.png" width="50%" style="max-width:100%;margin-top:30px;"></a><br>
+   <a target="_blank" rel="casa criativa" href="https://github.com/Rocketseat"><img src="./img/home.png" width="100%" style="max-width:100%;margin-top:30px;"></a><br>
 </p>
 
 <p align="center">
-   <a target="_blank" rel="casa criativa" href="https://github.com/Rocketseat"><img src="./img/cadastro.png" width="50%" style="max-width:100%;margin-top:30px;"></a><br>
+   <a target="_blank" rel="casa criativa" href="https://github.com/Rocketseat"><img src="./img/cadastro.png" width="100%" style="max-width:100%;margin-top:30px;"></a><br>
 </p>
 
 <p align="center">
-   <a target="_blank" rel="casa criativa" href="https://github.com/Rocketseat"><img src="./img/ideias.png" width="50%" style="max-width:100%;margin-top:30px;"></a><br>
+   <a target="_blank" rel="casa criativa" href="https://github.com/Rocketseat"><img src="./img/ideias.png" width="100%" style="max-width:100%;margin-top:30px;"></a><br>
 </p>
 
 <h1 align="center">WorkShop Rocketseat</h1> 
@@ -35,7 +35,7 @@ Verifique se você possui o [Node.js](https://nodejs.org/en/download/) instalado
 
 Clone o repositório:
 ````
-git clone https://github.com/jucelania/casa-criativa
+git clone https://github.com/jucelania/casa-criativa-frontend
 ````
 Instale as dependências necessárias para este projeto:
 
@@ -70,14 +70,14 @@ npm run start
 ✅ HTML 5 <br>
 ✅ CSS 3<br>
 ✅ JavaScipt
-- Webpack
+
 
 ## <a id="licenca"></a> 🍏 Licença
 
 Released in 2020. This project is under the [MIT license](https://nodejs.org/en/download/) 
 <br>
 <br>
-🚀 Mentoria Mayke Brito!! 
+🚀 Mentoria Mayk Brito!! 
 
 (PARTE 1 ) Continua... 🚀🚀
  
